@@ -3,7 +3,7 @@ import Header from './Header';
 import '../styles/NewAgreement.css';
 import axios from 'axios';
 
-const HOST = 'http://192.168.18.12';
+const HOST = 'http://34.95.157.220';
 const PORT = '8821';
 
 class NewAgreement extends React.Component{

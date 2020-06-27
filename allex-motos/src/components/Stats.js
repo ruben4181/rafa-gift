@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './Header';
 import axios from 'axios';
 import '../styles/Stats.css';
-const HOST = "http://192.168.18.12";
+const HOST = "http://34.95.157.220";
 const PORT = "8821";
 
 class Stats extends React.Component{
