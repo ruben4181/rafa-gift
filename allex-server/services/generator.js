@@ -127,7 +127,7 @@ function renderPDF(contrato){
           </table>
           <p>
             <b><i>SEGUNDA.- PRECIO:</b></i> Como precio del automotor descrito las partes acuerdan la suma de
-            $${contrato.price}
+            $${contrato.price}, cuya forma de pago será:  ${contrato.payment_method}
           </p>
           <p>
             <b><i>TERCERA.- OBLIGACIONES DEL VENDEDOR: EL VENDEDOR</b></i> hace entrega del vehiculo estado actual,
