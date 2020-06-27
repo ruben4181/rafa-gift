@@ -1,0 +1,67 @@
+.StatsContainer{
+  margin-top: 12%;
+}
+
+.StatsNavBar{
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+  background-color: black;
+}
+.LeftNavBar{
+  float : left;
+  width : 50%;
+  background-color: black;
+}
+
+.RightNavBar{
+  float : right;
+  width : 50%;
+  background-color: black;
+}
+
+.NavBarTextField{
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  width: 45%;
+  margin-right: 2.5%;
+  margin-top : 1%;
+  margin-bottom: 1%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.NavButton{
+  background-color: black;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: white;
+  border-radius: 10px;
+  width: 30%;
+  margin-left: 3%;
+  padding : 10px;
+  font-size: 16px;
+}
+
+.StatsItem{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-top: 1%;
+  padding: 5%;
+}
+
+.StatItemInfo{
+  width: 100%;
+  text-align: left;
+}
+.StatItemButton{
+  background-color: black;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+  padding : 10px;
+  font-size: 16px;
+}

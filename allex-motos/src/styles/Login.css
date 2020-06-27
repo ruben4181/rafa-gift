@@ -1,0 +1,31 @@
+.Login-Container{
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.Form-Container{
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.Login-Textfield{
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  width: 100%;
+  margin-top : 2%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.Login-Submit{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+  padding : 10px;
+  font-size: 16px;
+}

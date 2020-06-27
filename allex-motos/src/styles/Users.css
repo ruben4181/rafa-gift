@@ -1,0 +1,26 @@
+.UsersButton{
+  background-color: black;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: white;
+  border-radius: 10px;
+  width: 45%;
+  margin-right: 2.5%;
+  padding : 10px;
+  font-size: 16px;
+}
+
+.UsersContainer{
+  width: 80%;
+  margin-left: 10%;
+}
+
+.Users-Submit{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 2%;
+  padding : 10px;
+  font-size: 16px;
+}

@@ -1,0 +1,4 @@
+*.env
+allex-motos/node_modules
+allex-server/node_modules
+allex-server/assets

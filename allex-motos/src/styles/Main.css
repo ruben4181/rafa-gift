@@ -1,0 +1,26 @@
+.List {
+  max-width: 80%;
+  margin-left: 10%;
+  margin-top: 4%;
+  border-width: 2px;
+  border-color: gray;
+}
+
+.MainButton{
+  padding: 2%;
+  background-color: black;
+  color: white;
+  border-width: 0px;
+  width: 100%;
+}
+.MainButton:active{
+  background-color: #3b3b3b;
+  border-width: 0px;
+}
+.MainButton:focus{
+  border-width: 0px;
+}
+
+.ListItem{
+  margin-top: 15px;
+}
