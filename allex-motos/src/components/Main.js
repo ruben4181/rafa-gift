@@ -44,10 +44,7 @@ class Main extends React.Component{
             <button onClick={this.goToContrato} className="MainButton">Generar contrato de compraventa</button>
           </div>
           <div className="ListItem">
-            <button onClick={this.goToIventario} className="MainButton">Inventario</button>
-          </div>
-          <div className="ListItem">
-            <button onClick={this.goToEstadisticas} className="MainButton">Estadisticas</button>
+            <button onClick={this.goToEstadisticas} className="MainButton">Archivo</button>
           </div>
           <div className="ListItem">
             <button onClick={this.goToUsuarios} className="MainButton">Gestión de usuarios</button>
